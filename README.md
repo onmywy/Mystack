@@ -1,0 +1,1 @@
+yml文件为STELLARIS翻译文件，放入对应MOD的localisation文件夹中，游戏开始时选择语言即可
