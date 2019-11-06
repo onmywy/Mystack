@@ -1,4 +1,4 @@
-﻿l_simp_chinese:
+l_simp_chinese:
 #Translated by zhanghe#
 #Last Edit Time 2019.11.06#
 
@@ -20,11 +20,11 @@
 
  species_not_meaty: "$TRIGGER_FAIL$肉食性植物需要更多的...肉。"
 
- tech_eco_simulation_plantoid:0 "植物$tech_eco_simulation$"
- tech_eco_simulation_plantoid_desc:0 "$tech_eco_simulation$_desc"
- tech_gene_crops_plantoid:0 "植物$tech_gene_crops$"
+ tech_eco_simulation_plantoid:0 "植质生命$tech_eco_simulation$"
+ tech_eco_simulation_plantoid_desc:0 "$tech_eco_simulation_desc$"
+ tech_gene_crops_plantoid:0 "转基因植质生命体"
  tech_gene_crops_plantoid_desc:0 "$tech_gene_crops_desc$"
- tech_nano_vitality_crops_plantoid:0 "植物$tech_nano_vitality_crops$"
+ tech_nano_vitality_crops_plantoid:0 "$纳米活性植质生命体$"
  tech_nano_vitality_crops_plantoid_desc:0 "$tech_nano_vitality_crops_desc$"
 
 
