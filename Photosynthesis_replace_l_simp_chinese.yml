@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+#翻译： 子煊              #
+#最后编辑时间： 2019.11.08#
+ slavery_livestock_tooltip:0 "§H牲口§!可以通过定期宰杀从而提供 £food£ §H食物§!供给。他们将首先在农场工作（当然不是作为农民）。他们也可以被派其他工作， 矿场里劳作的肉尝起来显然不如牧场里的好吃。\n\n来自£job_farmer£ $job_farmer_plural$的£food£ §H食物§!: §G+4§! \n来自其他$pop_cat_worker_plural$的£food£ §H食物§!: §G+1§!"
+ mod_planet_farmers_food_produces_mult: "资源来自 £job_farmer£ $job_farmer_plural$"
+
+ MOD_BIO_POP_GROWTH_SPEED: "有机人口（非植质）增长速度"
+ MOD_BIO_POP_GROWTH_SPEED_DESC: "此数值影响那些并不依靠光合作用的有机物种的人口增长。"
+ MOD_BIO_POP_GROWTH_SPEED_REDUCTION: "有机人口（非植质）增长减少"
+
+ MOD_BIOLOGICAL_POP_HAPPINESS:0 "有机人口（非植质）幸福度"
+ MOD_BIOLOGICAL_POP_HAPPINESS_DESC: "那些并不依靠光合作用的有机人口的幸福度变化会受此数值影响。"
