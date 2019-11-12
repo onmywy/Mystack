@@ -6,5 +6,5 @@ yml文件为STELLARIS翻译文件
 
 文件列表：  
 1. [Photosynthesis](https://steamcommunity.com/sharedfiles/filedetails/?id=1903626314)：  
-  [Photosynthesis_l_simp_chinese.yml](/Localisation/Photosynthesis_l_simp_chinese.yml)    
-  [Photosynthesis_replace_l_simp_chinese.yml](/Localisation/Photosynthesis_replace_l_simp_chinese.yml)
+  [Photosynthesis_l_simp_chinese.yml](/Photosynthesis_l_simp_chinese.yml)    
+  [Photosynthesis_replace_l_simp_chinese.yml](/Photosynthesis_replace_l_simp_chinese.yml)
