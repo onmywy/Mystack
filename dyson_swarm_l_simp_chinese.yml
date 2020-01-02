@@ -1,7 +1,7 @@
-﻿l_simp_chinese:
+l_simp_chinese:
 #Dyson Swarm 戴森云MOD 翻译文件
 #翻译： 子煊
-#最后编辑日期：2020.1.1
+#最后编辑日期：2020.1.2
 
 #civics 民政
 civic_the_void:0 "失去家园"
@@ -110,7 +110,7 @@ dyson_starting.13.a.tooltip:0 "将“失控殖民单元”民政替换为“失�
 dyson_starting.13.b:0 "..错误..必须修复这个逻辑错误..错误..§R去除"
 dyson_starting.13.b.tooltip:0 "尝试删除有关指令二的所有指令，包括包括寻求任何有机申明作为我们的新主人。将“失控殖民单”民政替换为“铁心灭绝者”民政。"
 dyson_starting.14.title:0 "联系"
-dyson_starting.14.desc:0 "成功！已经在[from.GetName]发现生还者。 我们的大多数的造物者都死于这场突发的、快速的气候灾难性变化。一些剩下的人，为了他们曾经辉煌的文明留下的最后资源，殊死搏斗。谋杀、抢劫、甚至食人的案件层出不穷，似乎我们的造物主分裂成许多对抗的暴力团伙。我们估计，这些有新的因素有82.79%的概率引发不满。因此，把他们带到戴森球上有破坏的风险。这令我们陷入矛盾境地：由于这些新的因素，我们的两条指令发生矛盾。一指令：“不论以任何代价，保护戴森云免受一切有害影响。”，二指令“帮助我们的主人移居到他们的新家，并且保护他们，不论什么代价。” 如果我们还想捍卫指令，我们必须对其做出修正。我们应该怎么处理这个问题？"
+dyson_starting.14.desc:0 "成功！已经在[from.GetName]发现生还者。 我们的大多数的造物者都死于这场突发的、快速的气候灾难性变化。一些剩下的人，为了他们曾经辉煌的文明留下的最后资源，殊死搏斗。谋杀、抢劫、甚至食人的案件层出不穷，似乎我们的造物主分裂成许多对抗的暴力团伙。我们估计，这些有新的因素有82.79%的概率引发不满。因此，把他们带到戴森云上有破坏的风险。这令我们陷入矛盾境地：由于这些新的因素，我们的两条指令发生矛盾。一指令：“不论以任何代价，保护戴森云免受一切有害影响。”，二指令“帮助我们的主人移居到他们的新家，并且保护他们，不论什么代价。” 如果我们还想捍卫指令，我们必须对其做出修正。我们应该怎么处理这个问题？"
 dyson_starting.14.a:0 "优先一指令"
 dyson_starting.14.a.tooltip:0 "我们放弃了我们的造物者，而注重在太空的扩张。我们的帝国添加了“优先一指令”修正，使采矿站、恒星基地、空间站花费降低，并且解锁了“挖空行星”法令，一种提升我们戴森云区划上限的强力升级，可以在具有戴森云的星系里任何一个不宜居行星上采用。"
 dyson_starting.14.b:0 "优先二指令"
@@ -122,25 +122,28 @@ dyson_starting.16.title:0 "不满"
 dyson_starting.16.desc:0 "长年的战斗让这些幸存者丧失了我们造物者的特质。普遍的不信任和偶发发的暴力行动变得平常，并且开始影响整个殖民地。一群颇具影响力的生还者联合起来讨论该怎么解决这个问题。他们得出结论，再次团结所有人的最好方法是，宣布一群因暴力行为臭名昭著的人运回母星，把他们流放到[event_target:dyson_starting_me_planet.GetName]。似乎有些虚伪，他们感觉只要能够控制那些野蛮的人，就能平复人们的心，最终让他们忘记他们所经历的可怕的事。他们已向我们提交申请，我们应该怎么做？"
 
 dyson_starting.16.a:0 "他们是对的，流放害群之马"
-dyson_starting.16.a.tooltip:0 "这将移除3个有机陈设人口£pops，并且宣布[event_target:dyson_starting_me_planet.GetName]为“流放星球”。可能导致日后的其他事件。"
+dyson_starting.16.a.tooltip:0 "这将移除3个活体陈设人口£pops，并且宣布[event_target:dyson_starting_me_planet.GetName]为“流放星球”。可能导致日后的其他事件。"
 dyson_starting.16.b:0 "不，每个生命都应该被保护"
-dyson_starting.16.b.tooltip:0 "You spare these three biotrophy pops£pops, reducing the unity output on all your current planets by 15% and making our biotrophies unhappy for ten years. May lead to other events in the future."
-dyson_starting.17.title:0 "Another Proposal"
-dyson_starting.17.desc:0 "Following the success of outcasting some of their brethren for their crimes, many of our creators believe that this should be made a regular thing. They want to establish a way of casting certain troublemakers out to improve morale and keep order. This would mean that every two years a vote would be cast on who should be banished to the old homeplanet. Whilst the majority are already thinking about who they want to declare outcasts, many voices loudly rose against it. They say that the general public is not suitable as a judge on peoples lives and that this is completly unnecessary in a society that is as free as theirs. Both sides seem to agree however, that we should be the final judges on this. What do we do?"
-dyson_starting.17.a:0 "This seems like a great idea! Give the go ahead."
-dyson_starting.17.a.tooltip:0 "Every two years your biotrophies will vote to banish 0-3 pops£pops. This will give us large amounts of unity, but we will loose these pops forever. This does not happen, if there are less than 25 pops£pops present within our empire."
-dyson_starting.17.b:0 "No, this is enough already"
-dyson_starting.17.b.tooltip:0 "Since we chose to banish the group of biotrophies earlier, this will have no significant impact."
-dyson_starting.18.title:0 "Another Proposal"
-dyson_starting.18.desc:0 "Ever since we chose to ignore their request to banish some of their particular violent brethren, many of our creators are calling for a reevaluation of the idea. They want to establish a way of casting certain troublemakers out to improve morale and keep order. This would mean that every two years a vote would be cast on who should be banished to the old homeplanet. Whilst the majority are already thinking about who they want to declare outcasts, many voices loudly rose against it. They say that the general public is not suitable as a judge on peoples lives and that this is completly unnecessary in a society that is so free as theirs. Both sides seem to agree however, that we should be the final judges on this. What do we do?"
-dyson_starting.18.a:0 "This seems like a great idea! Give the go ahead."
-dyson_starting.18.a.tooltip:0 "Every two years your biotrophies will vote to banish 0-3 pops£pops. This will give us large amounts of unity, but we will loose these pops forever. This does not happen, if there are less than 25 pops£pops present within our empire."
-dyson_starting.18.b:0 "No, we will save all of you"
-dyson_starting.18.b.tooltip:0 "Choosing to save all their lives may seem like the right thing to us, our creators won't be so happy about it. This will extend the "Quarrelsome Biotrophies" modifier for another ten years."
-dyson_starting.19.title:0 "The vote has been cast"
-dyson_starting.19.desc:0 "Our biotrophies have come together and cast a vote on who should be banished from our empire."
-dyson_starting.19.a:0 "Okay"
-dyson_starting.19.a.tooltip:0 "0-3 random pops£pops will be banished"
+dyson_starting.16.b.tooltip:0 "你保留了这3个活体陈设人口£pops，减少目前所有行星的凝聚力产出15%并且你的活体陈设人口不开心，持续10年。可能导致日后的其他事件。"
+
+dyson_starting.17.title:0 "另一项提案"
+dyson_starting.17.desc:0 "由于根据罪行放逐的成功，许多我们的造物者相信这会成为一件平常的事情。他们想要建立流放刁民的流程，来提高士气、保持秩序。这意味着每过两年，就会有一次投票决定谁应该被放逐。虽然大多数已经想好了他们投票放逐谁，也有许多不同的声音反对这件事。他们说普通大众不应该参与审判人们的生命，而且在这一个自由的社会这更显得毫无必要。两方各执一词，但都认为我们应该做最后的决定，我们应该怎么做？"
+dyson_starting.17.a:0 "这是一个好主意！让他们继续"
+dyson_starting.17.a.tooltip:0 "每两年你的活体陈设将会有0-3 个人口£pops被投票流放。这将给我们提供大量凝聚力，但是我们永远地失去了这些人口。如果我们的帝国少于25人口£pops，这将不会发生。"
+dyson_starting.17.b:0 "不，已经够了"
+dyson_starting.17.b.tooltip:0 "既然我们之前已经选择放逐一些活体陈设了，这并不会其太大的作用。"
+
+dyson_starting.18.title:0 "另一项提案"
+dyson_starting.18.desc:0 "自从我们选择忽视他们放逐一些过分的暴力分子的诉求，许多我们的造物主要求重新评估。他们想要建立流放刁民的流程，来提高士气、保持秩序。这意味着每过两年，就会有一次投票决定谁应该被放逐。虽然大多数已经想好了他们投票放逐谁，也有许多不同的声音反对这件事。他们说普通大众不应该参与审判人们的生命，而且在这一个自由的社会这更显得毫无必要。两方各执一词，但都认为我们应该做最后的决定，我们应该怎么做？"
+dyson_starting.18.a:0 "这是一个好主意！让他们继续"
+dyson_starting.18.a.tooltip:0 "每两年你的活体陈设将会有0-3 个人口£pops被投票流放。这将给我们提供大量凝聚力，但是我们永远地失去了这些人口。如果我们的帝国少于25人口£pops，这将不会发生。"
+dyson_starting.18.b:0 "不，我会拯救你们所有人"
+dyson_starting.18.b.tooltip:0 "选择拯救所有人的生命对我们来说似乎是一件正确的事，但我们的造物者恐怕并不满意。这将导致“争吵的活体陈设”修正，持续10年。"
+
+dyson_starting.19.title:0 "被投票流放"
+dyson_starting.19.desc:0 "我们的活体陈设聚集在一起，发动了一场谁应该被流放出我们帝国的投票。"
+dyson_starting.19.a:0 "好吧"
+dyson_starting.19.a.tooltip:0 "0-3 随机的人口£pops 将被流放"
 
 #Ruined dyson swarm events
 dyson_swarm_other.28.title:0 "废墟"
@@ -322,7 +325,7 @@ dyson_outcast_planet_desc:0 "被流放的人就在这里，为了生存苦苦挣
 dyson_dead_planet:0 "死亡星球"
 dyson_dead_planet_desc:0 "这个行星使那个古老的文明的墓地。他们愚蠢又无知，没有照顾好他们的星球。在编写程序时出错，而本应该救命的AI被证明是他们犯的最后一个致命失误。现在只留下废墟和剧毒大气。"
 dyson_ununited_trophies:0 "争吵的活体陈设"
-dyson_ununited_trophies_desc:0 "由于一个有关罪犯的不受欢迎的决议，这个行星上的活体陈设正变得越来越爱争吵辩论。"
+dyson_ununited_trophies_desc:0 "由于对有关罪犯处置的决议的不满，这个行星上的活体陈设正变得越来越爱争吵。"
 dyson_outraged:0 "侮辱"
 
 #deposits 特殊地貌
@@ -591,10 +594,4 @@ dyson_network_drone_effect_desc:0 "£job_dyson_network_drone£ $job_ddyson_netwo
 mod_job_dyson_network_drone_add:0 "$job_dyson_network_drone$工作"
 mod_job_dyson_network_drone_per_pop:0 "§G+1§! $job_dyson_network_drone$工作每$VALUE$人口"
 mod_job_dyson_network_drone_per_pop_short:0 "\n§G+1§! £mod_job_dyson_network_drone_add£每$VALUE$ £pop£"
-
-
-
-
-
-
 
