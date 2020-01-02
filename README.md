@@ -10,5 +10,5 @@ yml文件为STELLARIS翻译文件
   [Photosynthesis_l_simp_chinese.yml](/Photosynthesis_l_simp_chinese.yml)    
   [Photosynthesis_replace_l_simp_chinese.yml](/Photosynthesis_replace_l_simp_chinese.yml)  
   
-2.[Dyson Swarm - colonizing space](https://steamcommunity.com/sharedfiles/filedetails/?id=1624127196  "Steam创意工坊")： 
+2.[Dyson Swarm - colonizing space](https://steamcommunity.com/sharedfiles/filedetails/?id=1624127196  "Steam创意工坊")：  
   [dyson_swarm_l_simp_chinese.yml](/dyson_swarm_l_simp_chinese.yml) (施工中)  
