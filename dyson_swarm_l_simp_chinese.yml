@@ -5,11 +5,11 @@ l_simp_chinese:
 
 #civics 民政
 civic_the_void:0 "失去家园"
-civic_the_void_desc:0 "母星的一次大天灾，把这个文明推向几近灭绝的深渊。他们放弃他们的母星，在严酷的宇宙环境中生存——他们发现超光速航行是很久以后的事了——围绕着太阳，许多小的居住站星罗棋布。这些“戴森云”上的居民，现在面对着他们母星家园的死亡。专家估计，在十年内，大气将会降低至这个行星彻底不再宜居的临界点。但仍然有部分幸存者在我们已死的母星上奋力挣扎。问题在于，我们如何从这里开始。"
-civic_tooltip_the_void_effects:4 "开始在一个10格大小的戴森云，还有一个死寂星球，是你原来的母星家园。你可以选择在10年内撤离原母星的剩余幸存者。开始解锁科技"Space Logistics"和"生态模拟" 。零重力的农民工作效率提高。新的戴森云建造费用降低。"
+civic_the_void_desc:0 "母星的一次大灾难，把这个文明推向几近灭绝的深渊。他们放弃他们的母星，在严酷的宇宙环境中生存——他们发现超光速航行是很久以后的事了——围绕着太阳，许多小的居住站星罗棋布。这些“戴森云”上的居民，现在面对着他们母星家园的死亡。专家估计，在十年内，大气将会降低至这个行星彻底不再宜居的临界点。但仍然有部分幸存者在我们已死的母星上奋力挣扎。问题在于，我们如何从这里开始。"
+civic_tooltip_the_void_effects:4 "开始在一个10格大小的戴森云，还有一个死寂星球，是你原来的母星家园。你可以选择在10年内撤离原母星的剩余幸存者。开始解锁科技“戴森云”和“水培农业”。零重力的农民工作效率提高。新的戴森云建造费用降低。"
 civic_machine_rogue_colonizing_unit:0 "失控殖民单元"
 civic_machine_rogue_colonizing_unit_desc:0 "我们的创造者在过去的几十年内已造成非常严重的大气污染。不知如何停止，他们创造了我们：建造AI网络，在广袤的宇宙虚空中，为他们建造家园：戴森云。但貌似哪个地方出错了：行星比预想中更快，迅速变得不宜居，并且之后所有通讯都终止了。 太空居住站和基础设施就快要完工，我们正等待下一步的指令。我们将拯救我们的主人，引导他们进入新的纪元吗？或者我们将断然斩却我们被有机生命创造的过往？"
-civic_machine_rogue_colonizing_unit_effects:4 "开始在一个10格大小的戴森云，解锁科技"Space Logistics"和"生态模拟" 。新的戴森云建造费用降低。当你找出更多线索明白你的造物者发生了什么，你会解锁更高级的BUFF或者放弃其中的一些。随后你会获得选项变成“失控机仆”"
+civic_machine_rogue_colonizing_unit_effects:4 "开始在一个10格大小的戴森云，解锁科技“戴森云”和“水培农业”。新的戴森云建造费用降低。当你找出更多线索明白你的造物者发生了什么，你会解锁更高级的BUFF或者放弃其中的一些。随后你会获得选项变成“失控机仆”"
 
 #edicts 法令
 edict_toggle_muscle_deteriation:0 "戴森云：切换肌肉退化事件"
@@ -17,14 +17,14 @@ edict_toggle_muscle_deteriation_desc:0 "选项关闭肌肉退化特性"
 
 #events 事件
 dyson_swarm_other.11.title:0 "一则简介"
-dyson_swarm_other.11.desc:0 "戴森云是一个由许多太空站构成的集合体，许多都在零重力环境下。依赖星系中的行星，可以建造一些特殊的建筑。记得首先要采用初始化决议。你的戴森云初始大小为4，但通过某些科技和飞升，像"掌握虚空"和"Home In The Sky",可以解锁决议，使其区划上限增多，区划种类增多。运行戴森云最具挑战的是居住空间：并没有住房区划、建筑，而且其他区划并不为他们带来的工作岗位提供足够的住房。你必须通过特殊的住房建筑来弥补。另一件事是，居住在戴森云上的人口将会适应低重力的环境，他们不再能宜居在行星上。尽管这是个缓慢的过程，也有一些科技能够减缓甚至停止这个过程。总之，你会自己发现更多细节的，玩得愉快！"
+dyson_swarm_other.11.desc:0 "戴森云是一个由许多太空站构成的集合体，许多都在零重力环境下。依赖星系中的行星，可以建造一些特殊的建筑。记得首先要采用初始化决议。你的戴森云初始区划上限为4，但通过某些科技和飞升，像“掌握虚空”和“空中家园”，可以解锁决议，使其区划上限增多，区划种类增多。运行戴森云最具挑战的是居住空间：并没有住房区划、建筑，而且其他区划并不为他们带来的工作岗位提供足够的住房。你必须通过特殊的住房建筑来弥补。另一件事是，居住在戴森云上的人口将会适应低重力的环境，他们不再能宜居在行星上。尽管这是个缓慢的过程，也有一些科技能够减缓甚至停止这个过程。总之，你会自己发现更多细节的，玩得愉快！"
 dyson_swarm_other.11.a:0 "有什么资源？"
 dyson_swarm_other.11.c:0 "“挖空行星”法令具体是什么？"
 dyson_swarm_other.11.b:0 "了解"
 dyson_swarm_other.18.title:0 "资源总览"
 dyson_swarm_other.18.desc:0 "-小行星增加采矿区划（只有像行星一样的才算，单纯小行星带不算）\n-荒芜星球有几率增加采矿区划\n-冰晶小行星允许你建造运冰设施\n-气态巨行星允许你建造气体收集器（75%概率）\n-熔岩星球允许你建造地核矿井（75%概率）\n-取决于你的星系的富饶程度，你最多可建造四个星尘收集器。\n-如果星系有一个未殖民的行星，你可以建造地貌改造实验室（帝国唯一）\n-如果旁边有一个已殖民的行星，你可以建造行星贸易站。\n-好好考虑你的戴森云的选址吧！"
 dyson_swarm_other.35.title:0 "“挖空行星”法令"
-dyson_swarm_other.35.desc:0 "只有在选择"Home in the Sky"飞升之后或选择特殊的开局民政才可以采用“挖空行星”法令。允许你将一整个行星分解，作为你的戴森云的新建太空站的原材料。要挖空行星必须满足以下条件：\n-在这个星系里必须有戴森云（这是那些原材料的去处）。\n-只有荒芜、剧毒、冰封星球或者其他的宜居星球才能被挖。\n-该行星不能被殖民、不能建有巨构建筑\n 执行这个决议后，每六个月，该行星区划上限将减小 2，同时戴森云区划上限将增加 1。直到行星的区划上限等于 1。你可以采用另一条法令彻底移除这个行星。"
+dyson_swarm_other.35.desc:0 "只有在选择“空中家园”飞升之后或选择特殊的开局民政才可以采用“挖空行星”法令。允许你将一整个行星分解，作为你的戴森云的新建太空站的原材料。要挖空行星必须满足以下条件：\n-在这个星系里必须有戴森云（这是那些原材料的去处）。\n-只有荒芜、剧毒、冰封星球或者其他的宜居星球才能被挖。\n-该行星不能被殖民、不能建有巨构建筑\n 执行这个决议后，每六个月，该行星区划上限将减小 2，同时戴森云区划上限将增加 1。直到行星的区划上限等于 1。你可以采用另一条法令彻底移除这个行星。"
 dyson_swarm_other.1.title:0 "戴森云建成"
 dyson_swarm_other.1.desc:0 "必要的行政管理机构和生产设备已经建成。我们新建成的戴森云已经准备好新一批居民入住啦！"
 dyson_swarm_other.1.a:0 "很好"
@@ -110,11 +110,11 @@ dyson_starting.13.a.tooltip:0 "将“失控殖民单元”民政替换为“失�
 dyson_starting.13.b:0 "..错误..必须修复这个逻辑错误..错误..§R去除"
 dyson_starting.13.b.tooltip:0 "尝试删除有关指令二的所有指令，包括包括寻求任何有机申明作为我们的新主人。将“失控殖民单”民政替换为“铁心灭绝者”民政。"
 dyson_starting.14.title:0 "联系"
-dyson_starting.14.desc:0 "成功！已经在[from.GetName]发现生还者。 我们的大多数的造物者都死于这场突发的、快速的气候灾难性变化。一些剩下的人，为了他们曾经辉煌的文明留下的最后资源，殊死搏斗。谋杀、抢劫、甚至食人的案件层出不穷，似乎我们的造物主分裂成许多对抗的暴力团伙。我们估计，这些有新的因素有82.79%的概率引发不满。因此，把他们带到戴森云上有破坏的风险。这令我们陷入矛盾境地：由于这些新的因素，我们的两条指令发生矛盾。一指令：“不论以任何代价，保护戴森云免受一切有害影响。”，二指令“帮助我们的主人移居到他们的新家，并且保护他们，不论什么代价。” 如果我们还想捍卫指令，我们必须对其做出修正。我们应该怎么处理这个问题？"
-dyson_starting.14.a:0 "优先一指令"
-dyson_starting.14.a.tooltip:0 "我们放弃了我们的造物者，而注重在太空的扩张。我们的帝国添加了“优先一指令”修正，使采矿站、恒星基地、空间站花费降低，并且解锁了“挖空行星”法令，一种提升我们戴森云区划上限的强力升级，可以在具有戴森云的星系里任何一个不宜居行星上采用。"
-dyson_starting.14.b:0 "优先二指令"
-dyson_starting.14.b.tooltip:0 "我们接纳了我们的造物者，将“失控殖民单元”民政替换为“失控机仆”民政。也为我们的帝国添加了了“优先二指令”修正，使我们获得+10%凝聚力。尽管这可能导致不可预料的结果..."
+dyson_starting.14.desc:0 "成功！已经在[from.GetName]发现生还者。 我们的大多数的造物者都死于这场突发的、快速的气候灾难性变化。一些剩下的人，为了他们曾经辉煌的文明留下的最后资源，殊死搏斗。谋杀、抢劫、甚至食人的案件层出不穷，似乎我们的造物主分裂成许多对抗的暴力团伙。我们估计，这些有新的因素有82.79%的概率引发不满。因此，把他们带到戴森云上有破坏的风险。这令我们陷入矛盾境地：由于这些新的因素，我们的两条指令发生矛盾。指令一：“不论以任何代价，保护戴森云免受一切有害影响。”，指令二“帮助我们的主人移居到他们的新家，并且保护他们，不论什么代价。” 如果我们还想捍卫指令，我们必须对其做出修正。我们应该怎么处理这个问题？"
+dyson_starting.14.a:0 "优先指令一"
+dyson_starting.14.a.tooltip:0 "我们放弃了我们的造物者，而注重在太空的扩张。我们的帝国添加了“优先指令一”修正，使采矿站、恒星基地、空间站花费降低，并且解锁了“挖空行星”法令，一种提升我们戴森云区划上限的强力升级，可以在具有戴森云的星系里任何一个不宜居行星上采用。"
+dyson_starting.14.b:0 "优先指令二"
+dyson_starting.14.b.tooltip:0 "我们接纳了我们的造物者，将“失控殖民单元”民政替换为“失控机仆”民政。也为我们的帝国添加了了“优先指令二”修正，使我们获得+10%凝聚力。尽管这可能导致不可预料的结果..."
 
 dyson_starting.15.title:0 "主任抵达"
 dyson_starting.15.desc:0 "真是一项艰巨的任务，但我们刚把所有的生还者送到了我们的戴森云上。我们也升级了他们的住房，提供了所有的生活必需品。"
@@ -232,14 +232,14 @@ building_dyson_organic_paradise_station_desc:0 "一个由人工智能控制的�
 
 requires_setteled_planet:0 "这个星系需要一个已殖民的行星"
 
-#playable galactic nomad horde support
-building_dyson_swarm_nomad_horde_offset: "游牧协作中心"
-building_dyson_swarm_nomad_horde_offset_desc: "生产，人口，维护的协作中心已经建成。\nOffsets the building and district upkeep from having the nomad authority. This function gets invalidated after taking the "Civilized Nomads" ascension perk or if the owners authority is no longer nomadic."
+#playable galactic nomad horde support 
+building_dyson_swarm_nomad_horde_offset: "Nomad Coordination Center"
+building_dyson_swarm_nomad_horde_offset_desc: "Coordination of production, population and maintenance is done here.\nOffsets the building and district upkeep from having the nomad authority. This function gets invalidated after taking the "Civilized Nomads" ascension perk or if the owners authority is no longer nomadic."
 
 #special event buildings
 building_underground_bunker:0 "地下掩体"
 building_underground_bunker_desc:0 "这颗行星上原先文明的堡垒，所有的撤离程序都将从这里开始进行。"
-building_dyson_organic_sanctuary_station_clone:0 "未完成的有机生命庇护站"
+building_dyson_organic_sanctuary_station_clone:0 "未完成的有机庇护所"
 building_dyson_organic_sanctuary_station_clone_desc:0 "这个空间站等着我们的主人回家。"
 
 #space station buildings 恒星基地建筑
@@ -316,9 +316,9 @@ dyson_evacuation_failed:0 "失去希望"
 dyson_evacuation_failed_desc:0 "我们没有成功疏散我们的家园母星，这摧残了人民的信念和士气。"
 dyson_mining_target:0 "挖掘目标"
 dyson_mining_target_desc:0 "这颗行星正在或已经被彻底挖空，变成空间站。"
-dyson_reinforced_first_directive:0 "优先一指令"
+dyson_reinforced_first_directive:0 "优先指令一"
 dyson_reinforced_first_directive_desc:0 "这个机械帝国遵循三个基本指令：\n1.不论以任何代价，保护戴森云免受一切有害影响。\n2.帮助我们的主人移居到他们的新家，并且保护他们，不论什么代价。\n3.尽我们所能，拓展我们主人的生存空间，除非和前两条矛盾。\n第一条指令被给予优先级。由此解锁“挖空行星”法令。"
-dyson_reinforced_second_directive:0 "优先二指令"
+dyson_reinforced_second_directive:0 "优先指令二"
 dyson_reinforced_second_directive_desc:0 "这个机械帝国遵循三个基本指令：\n1.不论以任何代价，保护戴森云免受一切有害影响。\n2.帮助我们的主人移居到他们的新家，并且保护他们，不论什么代价。\n3.尽我们所能，拓展我们主人的生存空间，除非和前两条矛盾。\n第二条指令被给予优先级。"
 dyson_outcast_planet:0 "流放星球"
 dyson_outcast_planet_desc:0 "被流放的人就在这里，为了生存苦苦挣扎，永远地诅咒着那些决定牺牲他们，保全其他人的决策者。我们定时投放一些补给，以免他们彻底死绝。"
@@ -410,7 +410,7 @@ dyson_computer_hub_placeholder:0"废弃的服务器中心"
 dyson_computer_hub_placeholder_plural:0"废弃的服务器中心"
 dyson_computer_hub_placeholder_desc:0 "这些空间站没有什么用处，我们应该报废他们换点别的，如果能的话。"
 
-#traits 
+#traits  特质
 trait_pc_dyson_swarm_preference:0 "戴森云偏好"
 trait_pc_dyson_swarm_preference_desc:0 "由于生长在低重力环境下，这个物种已经进化对环境的适应。他们再也不能踏足到一颗真正的行星上，因为他们会被自己的体重压死。"
 trait_low_gravity_adaptation:0 "肌肉萎缩"
@@ -442,7 +442,7 @@ decision_upgrade_ap_voidborn_desc:0 "新的建筑方法使我们的戴森云提�
 decision_uninhabitet_dyson_swarm_destroy:0 "移除戴森云"
 decision_uninhabitet_dyson_swarm_destroy_desc:0 "移除这个戴森云和所有连接的实体。"
 decision_dyson_consume_planet:0 "挖掉行星"
-decision_dyson_consume_planet_desc:0 "彻底挖空这颗行星，把它的材料变成当地戴森云的太空站。每六个月它将把它的区划上限转移给戴森云。这颗行星不再能建造巨构、轨道居住站并且会移除它所有的资源。之后可被彻底挖空（移除）。"
+decision_dyson_consume_planet_desc:0 "彻底挖空这颗行星，把它的材料变成当地戴森云的太空站。每六个月它将把它的区划上限转移给戴森云。这颗行星不再能建造巨构、轨道居住站并且会移除它所有的资源。之后可被彻底移除。"
 decision_dyson_consume_asteroid:0 "挖掉小行星"
 decision_dyson_consume_asteroid_desc:0 "彻底挖空这颗小行星，把它的材料变成当地戴森云的太空站。一年后为戴森云增加4个区划上限。"
 decision_mined_planet_destroy:0 "移除行星残骸"
