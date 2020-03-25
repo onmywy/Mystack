@@ -1,6 +1,6 @@
 l_simp_chinese:
 #翻译： 子煊              #
-#最后编辑时间： 2019.11.07#
+#最后编辑时间： 2020.3.25 #
 
  plantoid: "植质"
  trait_plantoid: "$plantoid$"
@@ -81,3 +81,7 @@ l_simp_chinese:
 
  civic_hive_devouring_swarm_plantoid: "杀戮之藤"
  civic_tooltip_devouring_swarm_plantoid_effects: "无法与其他帝国展开§Y外交§!！\n无法进入§Y泛星系贸易市场§!\n对任何其他帝国拥有§Y“捕食”§!宣战理由\n§Y异种人口§!将被加工成肥料。\n将异种£pop£ 人口回收成肥料将获得£society£ §Y$society_research$§!\n§Y$MOD_SHIP_HITPOINTS_MULT$§!增加§G+25%§!\n§Y$MOD_SHIP_HULL_REGEN_ADD_PERC$§!和§Y$MOD_SHIP_ARMOR_REGEN_ADD_PERC$§!增加§G+0.5%§!\n§Y$MOD_COUNTRY_STARBASE_INFLUENCE_COST_MULT$§!减少§G50%§!\n§Y$MOD_ARMY_DAMAGE_MULT$§!增加§G+40%§!\n§Y$mod_category_biology_research_speed_mult$§!增加§G+20%§!\n§Y$MOD_STARBASE_SHIP_BUILD_COST_MULT$§!减少§G-25%§!\n§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!增加§G+33%§!\n"
+ 
+ trait_livestock: "牲口"
+ trait_livestock_desc:0 "§L这个物种已经被驯化，作为食物来源有千年之久。他们智力有限，不会说话、使用工具。但是他们会站起来盯着你看，所以别当他们面说坏话。§!\n"
+ TRAIT_LIFESTOCK_EFFECT: "只能被£job_farmer£作为£job_livestock£ §YLivestock§!驯养。不能从事其他工作。哞。。"
